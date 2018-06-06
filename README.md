@@ -1,0 +1,2 @@
+# GitHubPagesProject
+Favorite Animal
